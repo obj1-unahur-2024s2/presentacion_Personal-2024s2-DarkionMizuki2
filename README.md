@@ -1,35 +1,9 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidxs a
-# Programación con objetos I
+# CASTELLON SANTIAGO ELIAS
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
-
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
-
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez, Gabriel Ledezma, Maia Barrionuevo y Gabriel Álvarez.
-
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+Buenas, me llamo Santiago. Tengo 26 años y soy estudiante de la carrera de la tecnicatura de desarrollo de Videojuegos, vivo con mi familia con mis 2 padres y mis 4 hermanos (2 hombres y 2 mujeres). Vengo a este curso con la intencion de aprender todo lo relacionado con la paradigma de programacion con objetos, es algo que escuche por otros compañeros mios y ya gente experimentada que se usa mucho y quisiera saber mas las bases de este. 
+Me inscribí a la carrera en el año pasado, o sea en el 2023 y hasta el dia de hoy no me arrepiento de haber escogido esta carrera.
+Por el lado de mis hobbies, mis hobbies favoritos son jugar videojuegos como el PES6 y un motor de juego de peleas llamado M.U.G.E.N en la que puedes meter cualquier personaje a luchar creado por la comunidad al mismo juego y ponerlo en la seleccion de personajes. Es bastante divertido probar los diferentes personajes de la comunidad pero lo malo es que algunos de estos no estan bien balanceados jaja
+Y para terminar, sobre el mundo laboral, estoy en proceso de entrar a este ya que actualmente los salarios en este pais no son tan rentables como el exterior además que para salir al exterior debo perfeccionar el ingles.
+Sin más preambulos, le mando un saludo cordial.
